@@ -19,7 +19,8 @@ Designed for Python developers who want a sleek, minimal interface without the s
 ```bash
 git clone https://github.com/yourusername/ClearFrame.git
 cd ClearFrame
-pip install dearpygui```
+pip install dearpygui
+```
 
 ---
 ## Credits & Acknowledgements
